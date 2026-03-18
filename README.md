@@ -38,7 +38,7 @@ I am passionate about helping businesses understand their data and make smarter 
 Power BI dashboard analyzing sales performance, revenue trends, and regional insights.
 
 **Tools:** Power BI, DAX 
-🔗 [View Project](link)
+🔗 https://github.com/Shrivathsa123/Sales-Dashboard
 
 
 ### 🔹 HR Analytics Dashboard
